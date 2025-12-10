@@ -1,1 +1,1 @@
-This is an Gallery Web Application in which we used an technique called "Pagination" for showing the page number in real time.
+
