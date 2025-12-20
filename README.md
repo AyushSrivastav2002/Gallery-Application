@@ -2,5 +2,5 @@ A Gallery web application developed in React and styled in Tailwind CSS having t
 
 We can click for any image and can download that image.
 
-Uses React Hooks(UseState Hook & UseEffect Hook)
+Uses React Hooks(UseState Hook & UseEffect Hook) and
 Pagination. 
